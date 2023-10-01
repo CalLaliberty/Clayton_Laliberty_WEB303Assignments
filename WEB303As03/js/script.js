@@ -50,8 +50,8 @@ function insertTeamData(members) {
 
 
 $(document).ready(function() {
-    fetchTeamDataUsingAjax();               // 1
-    // fetchTeamDataUsingGetJSON();         // 2    
+    fetchTeamDataUsingAjax();               // Function 1 
+    // fetchTeamDataUsingGetJSON();         // Function 2    
 });
 
 
