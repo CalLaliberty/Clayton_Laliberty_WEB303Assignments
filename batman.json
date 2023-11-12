@@ -1,0 +1,52 @@
+[
+    {
+      "firstName": "Bruce",
+      "lastName": "Wayne",
+      "age": 35,
+      "occupation": "Billionaire",
+      "description": "The wealthy playboy who secretly fights crime as Batman."
+    },
+    {
+      "firstName": "Selina",
+      "lastName": "Kyle",
+      "age": 28,
+      "occupation": "Thief",
+      "description": "A skilled cat burglar known as Catwoman."
+    },
+    {
+      "firstName": "Harvey",
+      "lastName": "Dent",
+      "age": 38,
+      "occupation": "District Attorney",
+      "description": "The idealistic district attorney who becomes Two-Face."
+    },
+    {
+      "firstName": "Alfred",
+      "lastName": "Pennyworth",
+      "age": 60,
+      "occupation": "Butler",
+      "description": "Bruce Wayne's loyal butler and confidant."
+    },
+    {
+      "firstName": "Jim",
+      "lastName": "Gordon",
+      "age": 50,
+      "occupation": "Police Commissioner",
+      "description": "Gotham City's Police Commissioner and an ally of Batman."
+    },
+    {
+      "firstName": "Barbara",
+      "lastName": "Gordon",
+      "age": 25,
+      "occupation": "Computer Hacker",
+      "description": "A skilled hacker who becomes Batgirl."
+    },
+    {
+      "firstName": "Edward",
+      "lastName": "Nygma",
+      "age": 40,
+      "occupation": "Criminal Mastermind",
+      "description": "A brilliant but eccentric criminal known as the Riddler."
+    }
+  ]
+  

@@ -1,0 +1,38 @@
+h1 {
+  text-align: center;
+}
+
+p {
+  color: whitesmoke;
+}
+
+table {
+  width: 100%;
+  border-collapse: collapse;
+}
+  
+table, th, td {
+  border: 1px solid black;
+}
+  
+th, td {
+  padding: 8px;
+  text-align: left;
+}
+  
+.highlight {
+  background-color: darkgreen;
+  color: black;
+}
+  
+.footer {
+  position: absolute;
+  bottom: 0;
+  width: 100%;
+  text-align: center;
+  margin-top: auto;
+}
+
+.buttons {
+  margin: 20px 0;
+}
