@@ -1,0 +1,46 @@
+html, body {
+  height: 100%;
+  margin: 0;
+}
+
+h1 {
+  text-align: center;
+}
+
+body {
+  background: linear-gradient(to bottom, #121212, #0074cc);
+  
+}
+
+p {
+  color: whitesmoke;
+}
+
+table {
+  width: 100%;
+  border-collapse: collapse;
+}
+  
+table, th, td {
+  border: 1px solid black;
+}
+  
+th, td {
+  padding: 8px;
+  text-align: left;
+  color: whitesmoke;
+}
+  
+.highlight {
+  background-color: darkgreen;
+  color: black;
+}
+  
+.footer {
+  position: absolute;
+  bottom: 0;
+  width: 100%;
+  text-align: center;
+  margin-top: auto;
+}
+
