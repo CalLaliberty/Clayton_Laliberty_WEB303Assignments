@@ -1,0 +1,15 @@
+h1 {
+    text-align: center;
+}
+
+p {
+    text-align: center;
+}
+
+.footer {
+    position: absolute;
+    bottom: 0;
+    width: 100%;
+    text-align: center;
+    margin-top: auto;
+}
